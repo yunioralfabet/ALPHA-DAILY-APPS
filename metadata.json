@@ -1,0 +1,6 @@
+{
+  "name": "AlphaDaily Apps",
+  "description": "A productivity tool for tracking daily habits and personal growth.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
